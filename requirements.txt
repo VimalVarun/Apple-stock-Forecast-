@@ -3,4 +3,9 @@ numpy
 seaborn
 matplotlib
 README.md
+statsmodels
+scikit-learn
+tensorflow
+pmdarima
+prophet
 -e .
